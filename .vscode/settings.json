@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "css.validate": false,
+  "stylelint.enable": true,
+  "postcss.validate": true
+}

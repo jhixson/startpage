@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:200,400,700&display=swap');
+
+body {
+  @apply bg-gray-800 text-gray-100;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+a {
+  transition: color 0.2s ease;
+}

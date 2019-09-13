@@ -1,0 +1,42 @@
+[
+  {
+    "title": "/r/javascript",
+    "url": "https://reddit.com/r/javascript",
+    "icon": [
+      "fab",
+      "js-square"
+    ]
+  },
+  {
+    "title": "/r/askreddit",
+    "url": "https://reddit.com/r/askreddit",
+    "icon": [
+      "fas",
+      "comment-alt-lines"
+    ]
+  },
+  {
+    "title": "/r/apple",
+    "url": "https://reddit.com/r/apple",
+    "icon": [
+      "fab",
+      "apple"
+    ]
+  },
+  {
+    "title": "/r/elixir",
+    "url": "https://reddit.com/r/elixir",
+    "icon": [
+      "fas",
+      "flask-potion"
+    ]
+  },
+  {
+    "title": "YouTube",
+    "url": "https://youtube.com",
+    "icon": [
+      "fab",
+      "youtube"
+    ]
+  }
+]
