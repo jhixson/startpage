@@ -13,7 +13,7 @@ const Layout = ({ children }) => {
   return (
     <div className="container mx-auto">
       <main className="px-8 py-12 lg:px-0">
-        <div class="flex flex-col justify-center md:flex-row md:-mx-12">
+        <div className="flex flex-col justify-center md:flex-row md:-mx-12">
           {children}
         </div>
       </main>

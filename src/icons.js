@@ -6,12 +6,15 @@ import {
   faDropbox,
   faYoutube
 } from '@fortawesome/free-brands-svg-icons';
+
 import {
   faCommentAltLines,
   faChild,
   faEnvelope,
   faFlaskPotion
 } from '@fortawesome/pro-solid-svg-icons';
+
+import { faTv } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
   faJsSquare,
@@ -22,5 +25,6 @@ library.add(
   faYoutube,
   faChild,
   faEnvelope,
-  faFlaskPotion
+  faFlaskPotion,
+  faTv
 );

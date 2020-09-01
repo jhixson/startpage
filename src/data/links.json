@@ -38,5 +38,13 @@
       "fab",
       "youtube"
     ]
+  },
+  {
+    "title": "TV Recordings",
+    "url": "https://www.xfinity.com/stream/recordings",
+    "icon": [
+      "fas",
+      "tv"
+    ]
   }
 ]

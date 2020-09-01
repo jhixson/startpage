@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Off We Go 🚀`,
+    title: `Off We Go!`,
     description: `A list of commonly used resources to jump start a new tab.`,
     author: `@jhixson`
   },
@@ -24,7 +24,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png` // This path is relative to the root of the site.
+        icon: `src/images/rocket.png` // This path is relative to the root of the site.
       }
     },
     `gatsby-transformer-json`,
