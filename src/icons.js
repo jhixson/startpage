@@ -15,6 +15,7 @@ import {
 } from '@fortawesome/pro-solid-svg-icons';
 
 import { faTv } from '@fortawesome/free-solid-svg-icons';
+import { faDiceD6 } from '@fortawesome/pro-duotone-svg-icons';
 
 library.add(
   faJsSquare,
@@ -26,5 +27,6 @@ library.add(
   faChild,
   faEnvelope,
   faFlaskPotion,
-  faTv
+  faTv,
+  faDiceD6
 );

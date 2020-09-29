@@ -22,5 +22,13 @@
       "fab",
       "dropbox"
     ]
+  },
+  {
+    "title": "Airtable",
+    "url": "https://airtable.com/",
+    "icon": [
+      "fad",
+      "dice-d6"
+    ]
   }
 ]
