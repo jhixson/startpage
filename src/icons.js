@@ -11,11 +11,13 @@ import {
   faCommentAltLines,
   faChild,
   faEnvelope,
-  faFlaskPotion
+  faFlaskPotion,
+  faTv,
+  faCalendarAlt
 } from '@fortawesome/pro-solid-svg-icons';
 
-import { faTv } from '@fortawesome/free-solid-svg-icons';
 import { faDiceD6 } from '@fortawesome/pro-duotone-svg-icons';
+import { faChartLine, faLaughWink } from '@fortawesome/pro-regular-svg-icons';
 
 library.add(
   faJsSquare,
@@ -28,5 +30,8 @@ library.add(
   faEnvelope,
   faFlaskPotion,
   faTv,
-  faDiceD6
+  faDiceD6,
+  faChartLine,
+  faCalendarAlt,
+  faLaughWink
 );

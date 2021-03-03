@@ -16,6 +16,14 @@
     ]
   },
   {
+    "title": "Google Calendar",
+    "url": "https://calendar.google.com",
+    "icon": [
+      "fas",
+      "calendar-alt"
+    ]
+  },
+  {
     "title": "Dropbox",
     "url": "https://www.dropbox.com/home",
     "icon": [

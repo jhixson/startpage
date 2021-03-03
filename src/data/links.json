@@ -32,11 +32,27 @@
     ]
   },
   {
+    "title": "E*TRADE",
+    "url": "https://us.etrade.com/home",
+    "icon": [
+      "far",
+      "chart-line"
+    ]
+  },
+  {
     "title": "YouTube",
     "url": "https://youtube.com",
     "icon": [
       "fab",
       "youtube"
+    ]
+  },
+  {
+    "title": "PBS Kids",
+    "url": "https://pbskids.org/video/",
+    "icon": [
+      "far",
+      "laugh-wink"
     ]
   },
   {
